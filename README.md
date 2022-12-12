@@ -1,2 +1,2 @@
-# Proyecto_final_progra
-Proyecto_final_progra
+# proyecto-final-streamlit
+proyecto final streamlit
